@@ -1,2 +1,2 @@
 # Billing-Analytics-Dispute-Optimization-Dashboard-Power-BI-
-A Power BI analytics project focused on billing accuracy, dispute drivers, financial risk exposure, and process optimization using Pareto analysis and what-if simulation.
+A four-dashboard Power BI analytics suite covering Billing Health, Dispute Root Cause Analysis, Agent Performance Impact, and Risk Prioritization with Pareto and What-If simulation.
